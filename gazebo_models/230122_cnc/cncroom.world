@@ -1259,7 +1259,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/henryboy/Desktop/cncroom_02.obj</uri>
+              <uri>/home/henryboy/turtlebot_sim/gazebo_models/230122_cnc/cncroom_02.obj</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
