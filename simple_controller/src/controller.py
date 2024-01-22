@@ -51,3 +51,4 @@ pub = rospy.Publisher('cmd_vel_mux/input/navi', Twist, queue_size=1)
 rospy.Service('move_to_goal', Empty, handle_goal)
 
 rospy.spin()
+#test
