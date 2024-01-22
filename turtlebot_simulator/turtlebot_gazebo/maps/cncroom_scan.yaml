@@ -1,4 +1,4 @@
-image: map.pgm
+image: /dev_ws/src/turtlebot_simulator/turtlebot_gazebo/maps/cncroom_scan.pgm
 resolution: 0.050000
 origin: [-13.800000, -12.200000, 0.000000]
 negate: 0
